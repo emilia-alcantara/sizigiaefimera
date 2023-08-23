@@ -1,4 +1,4 @@
-# Hello!
+# Hello, welcome!
 
 
 ## About me
@@ -19,7 +19,7 @@
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sizigiaefimera&layout=compact)
 
-## What I've learned
+## What I've learned so far
 - Java and Kotlin development languages
 
 - MVVM architecture
