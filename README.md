@@ -36,6 +36,6 @@
 
 ## Contact me
 
-![Static Badge](https://img.shields.io/badge/write_me-an_email-blue)
-emilia.alcantara.y@gmail.com
+💌 Contact me at [emilia.alcantara.y@gmail.com](mailto:emilia.alcantara.y@gmail.com).
+
 
