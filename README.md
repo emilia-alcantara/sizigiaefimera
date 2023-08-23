@@ -35,7 +35,7 @@
 - Recycler view
 
 ## Contact me
+
 ![Static Badge](https://img.shields.io/badge/write_me-an_email-blue)
 emilia.alcantara.y@gmail.com
 
-![Static Badge](https://img.shields.io/badge/linkedin-blabla-blue)
